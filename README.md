@@ -20,7 +20,7 @@ A website of candy, nicely organized and adjust the color also add a little java
 A simple score keeper by javascript used to record score in matches. 
 
 ## Demo
-![image](https://github.com/RyanDu/HTMLSamples/tree/master/images/Candy.jpg)
-![image](https://github.com/RyanDu/HTMLSamples/tree/master/images/Gallery.jpg)
-![image](https://github.com/RyanDu/HTMLSamples/tree/master/images/Hannah.jpg)
-![image](https://github.com/RyanDu/HTMLSamples/tree/master/images/Mood.jpg)
+![image](https://github.com/RyanDu/HTMLSamples/blob/master/images/Candy.jpg)
+![image](https://github.com/RyanDu/HTMLSamples/blob/master/images/Gallery.jpg)
+![image](https://github.com/RyanDu/HTMLSamples/blob/master/images/Hannah.jpg)
+![image](https://github.com/RyanDu/HTMLSamples/blob/master/images/Mood.jpg)
